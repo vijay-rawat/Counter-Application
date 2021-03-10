@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+  color: rgb(7, 48, 83);
+  background: rgb(40, 156, 65);
+  background-color: rgb(51, 153, 144);
+  
+
+
+}
+
+button {
+align-items: center;
+color: antiquewhite;
+padding: 5px 25px;
+margin: 10px;
+font-size: 15px;
+text-transform: uppercase;
+width: 300px;
+border-radius: 30px;
+background-color: rgb(68, 12, 26);
+
+
+}
